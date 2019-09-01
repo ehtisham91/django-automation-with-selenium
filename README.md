@@ -1,6 +1,6 @@
 **`selenium_ecommerce`**
 
-"Website_code" directory contains the website code, while the "selenium" directory has all the scripts we've written to do interaction with website.
+"Website_code" directory contains the website code (website developed with django/python), while the "selenium" directory has all the scripts I've written to do interaction with website.
 
 **`Guide`**
 
